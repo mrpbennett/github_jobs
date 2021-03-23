@@ -1,0 +1,8 @@
+/* TAILWIND TYPOGRAPHY RESETS */
+.prose a {
+    text-decoration: none !important;
+}
+
+.prose h2 {
+    margin-top:0;
+}
